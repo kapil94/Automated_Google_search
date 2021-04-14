@@ -1,6 +1,5 @@
 import bs4,requests
-from requests_html import HTMLSession
-import sys,os,re
+import sys,os
 import webbrowser
 
 os.chdir('/home/kapil/Desktop')
